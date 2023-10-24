@@ -1,0 +1,19 @@
+Sepal Length Ortalamasi: 5.843335
+Sepal Width Ortalamasi: 3.054000
+Petal Length Ortalamasi: 3.758667
+Petal Width Ortalamasi: 1.198667
+
+Sepal Length Varyansi: 0.681122
+Sepal Width Varyansi: 0.186751
+Petal Length Varyansi: 3.092424
+Petal Width Varyansi: 0.578532
+
+Sepal Length - Sepal Width Korelasyonu: -0.109369
+Sepal Length - Petal Length Korelasyonu: 0.871755
+Sepal Length - Petal Width Korelasyonu: 0.817954
+
+Kovaryans Matrix
+0.681122 -0.039007 1.265191 0.513458 
+-0.039007 0.186751 -0.319568 -0.117195 
+1.265191 -0.319568 3.092424 1.287745 
+0.513458 -0.117195 1.287745 0.578532 
